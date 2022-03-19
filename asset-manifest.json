@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norris-API/static/css/main.fcda1c90.css",
+    "main.js": "/Chuck-Norris-API/static/js/main.8293bf85.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Chuck-Norris-API/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Chuck-Norris-API/index.html",
+    "main.fcda1c90.css.map": "/Chuck-Norris-API/static/css/main.fcda1c90.css.map",
+    "main.8293bf85.js.map": "/Chuck-Norris-API/static/js/main.8293bf85.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Chuck-Norris-API/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcda1c90.css",
+    "static/js/main.8293bf85.js"
+  ]
+}
